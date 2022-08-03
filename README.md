@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KKColdrix
-- 👀 I’m interested in Web/Desktop coding
+- 👀 I’m interested in Desktop languages like python, rust, kotlin and carbon but rn i dont have interest on coding on it
 - 🌱 I’m currently learning Python... 
 - 📫 How to reach me carlitoslf@outlook.com
 
